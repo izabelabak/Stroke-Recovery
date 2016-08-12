@@ -1,0 +1,15 @@
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_bin\Debug\Mono.Cecil.xml
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_obj\Debug\Stroke Recovery.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Iza\Desktop\Praca Magisterska - Unity\Stroke Recovery\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb

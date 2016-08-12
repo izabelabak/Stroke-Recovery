@@ -3,11 +3,13 @@ using System.Collections;
 
 public class Interact_Script : MonoBehaviour {
     public float Distance = 5f;
-    
-
-	void Update ()
+    public Canvas GameSentence;
+   
+    void Update ()
     {
-	    if (Input.GetKeyDown(KeyCode.Mouse0))
+        Cursor.visible = true;
+        
+        if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             Ray ray = new Ray(transform.position, transform.forward);
             RaycastHit hit;
@@ -19,5 +21,6 @@ public class Interact_Script : MonoBehaviour {
                 }
             }
         }
-	}
+
+    }
 }

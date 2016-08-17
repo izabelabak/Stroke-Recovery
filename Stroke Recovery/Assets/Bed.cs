@@ -1,23 +1,17 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class Bed : MonoBehaviour {
     public Canvas BedInfo; //Podpowiedź pojawiająca się po najechaniu na łóżko, że można wykonać zadanie
-    public bool IsComplete;
     public Canvas GameSentence;//Gra z dokończeniem przysłów
 
-	void Start () {
+	void Start ()
+    {
         BedInfo = BedInfo.GetComponent<Canvas>();
         BedInfo.enabled = false;
         GameSentence = GameSentence.GetComponent<Canvas>();
-        GameSentence.enabled = false;
-	
+        GameSentence.enabled = false;	
 	}
 	
-	void Update () {
-	
-	}
-
     public void OnMouseEnter()
     {
         BedInfo.enabled = true;//aktywujemy podpowiedź po najechaniu kursorem na łóżko

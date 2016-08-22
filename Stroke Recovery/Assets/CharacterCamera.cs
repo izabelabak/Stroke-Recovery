@@ -8,11 +8,9 @@ public class CharacterCamera : MonoBehaviour
 
     private Camera mainCamera;
 
-    private float distance = 2.0f;
-    private float currentX = 5.0f;
-    private float currentY = 35.0f;
-    //private float sensivityX = 1.0f;
-    //private float sensivityY = 1.0f;
+    private float distance = 3.0f;
+    private float currentX = 0.0f;
+    private float currentY = 20.0f;
 
     private void Start()
     {

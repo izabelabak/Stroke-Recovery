@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Player : MonoBehaviour {
     public Animator PlayerAnimation;
+    private float vert;
     
 	void Start ()
     {
@@ -19,13 +20,9 @@ public class Player : MonoBehaviour {
         {
             PlayerAnimation.Play("Left", -1, 0f);
         }
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(1))
         {
             PlayerAnimation.Play("Walking", -1, 0f);
-        }
-        if (Input.GetKeyDown("s"))
-        {
-            PlayerAnimation.Play("Sitting", -1, 0f);
         }
     }
 }

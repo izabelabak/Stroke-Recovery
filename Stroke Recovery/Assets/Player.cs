@@ -12,11 +12,11 @@ public class Player : MonoBehaviour {
 	
 	void Update ()
     {	
-        if (Input.GetKeyDown("a"))
+        if (Input.GetKeyDown("d"))
         {
             PlayerAnimation.Play("Right", -1, 0f);
         }
-        if (Input.GetKeyDown("d"))
+        if (Input.GetKeyDown("a"))
         {
             PlayerAnimation.Play("Left", -1, 0f);
         }
